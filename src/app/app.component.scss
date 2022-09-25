@@ -1,5 +1,18 @@
-.mat-card-simples{
+.mat-card-simples {
   max-width: 300px;
   background-color: aliceblue;
   margin-top: 10px;
+}
+.inputs-user {
+  background-color: aqua;
+}
+
+.mat-form-principal {
+  margin-left: 5px;
+}
+
+.input-footer {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 5px;
 }
